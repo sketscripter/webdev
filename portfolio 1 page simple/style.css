@@ -1,0 +1,37 @@
+body{
+    margin: 0;
+    width: 100%;
+}
+#prof {  
+    height: 100%;
+    width: 50%;
+    float: left;
+}
+
+#logo {
+    clear: left;
+    margin-left: 5%;
+    height: 10%;
+    padding-top: 2%;
+}
+
+#social {
+    margin-left: 70%;
+}
+
+#social img {
+height: 4%;
+padding: 2%;
+}   
+
+#social img:hover{
+    opacity: 0.5;
+}
+#writing {
+    margin-top: 5%;
+    font-family: "Georgia";
+    font-style: italic;
+    font-size: 17px;
+    position: relative;
+    margin-left: 51%;
+}
